@@ -1,3 +1,3 @@
-Esto es la modificación de la "actividad1"
+Seguimos modificando nuestro repositorio, ahora incluyendo ramas nuevas
 
-Modificación hecha directamente desde GitHub
+modificación hecha directamente desde GitHub
